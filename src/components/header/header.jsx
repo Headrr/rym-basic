@@ -14,7 +14,7 @@ const Header = () => {
             <a href="/api">Api Hook</a>
           </li>
           <li>
-            <a href="/new">Episodes</a>
+            <a href="/asyncApi">Async Api</a>
           </li>
         </ul>
       </nav>
